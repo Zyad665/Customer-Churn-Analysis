@@ -58,13 +58,6 @@ The dashboard helps answer questions such as:
 * Created DAX measures for KPI calculations.
 * Designed user-friendly reports for stakeholders.
 
-## Dashboard Preview
-
-Add screenshots of your dashboard here.
-
-Example:
-
-![Dashboard Screenshot](Dashboard.png)
 
 ## Business Value
 
