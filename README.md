@@ -64,7 +64,7 @@ Add screenshots of your dashboard here.
 
 Example:
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Customer Churn Dashboard.png)
 
 ## Business Value
 
